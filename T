@@ -1,1 +1,1 @@
-[{"USERJID":"@s.whatsapp.net"}]
+[{"USERJID":"1@s.whatsapp.net"}]
