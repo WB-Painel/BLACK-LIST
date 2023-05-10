@@ -1,1 +1,1 @@
-[{"USERJID":"5521999999999@s.whatsapp.net"},{"USERJID":"5521999999998@s.whatsapp.net"}]
+[{"USERJID":"1@s.whatsapp.net"},{"USERJID":"2@s.whatsapp.net"},{"USERJID":"3@s.whatsapp.net"}]
